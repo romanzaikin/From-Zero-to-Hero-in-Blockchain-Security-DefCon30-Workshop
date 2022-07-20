@@ -13,13 +13,14 @@ In the workshop, we will teach how to find vulnerabilities in blockchain smart c
 On chain
 --
 
-1)	Install MetaMask wallet on chrome:
+1) Install MetaMask wallet on chrome:
 https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
-2)	Get testnet Ethereum from one of the networks (currently this 2 are most popular):
-a.	https://rinkebyfaucet.com/
-b.	https://goerli-faucet.mudit.blog/
 
-3)	Change the network in your MetaMask to related network "Rinkeby Test Network"
+2) Get testnet Ethereum from one of the networks (currently this 2 are most popular):
+-	https://rinkebyfaucet.com/
+-	https://goerli-faucet.mudit.blog/
+
+4) Change the network in your MetaMask to related network **"Rinkeby Test Network"**
 
 Off Chain
 --
@@ -54,6 +55,12 @@ brownie bake token
 brownie run token
 ```
 
-if you got the following output everything is ready, not that there may be web3 errors, ignore them and scroll up the command, we are looking for the Transaction set if it looks like that:
+If you got the following output everything is ready, if you got some errors in the terminal just ignore them and scroll up the command, we are looking for the **Transaction set** if it looks like that:
 
 ![This is an image](https://github.com/romanzaikin/From-Zero-to-Hero-in-Blockchain-Security-DefCon30-Workshop/blob/main/working.png)
+
+You are good!
+
+# Configure Your Workshop Files
+
+1) 
