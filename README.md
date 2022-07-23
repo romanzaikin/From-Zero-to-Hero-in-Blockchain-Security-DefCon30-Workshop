@@ -63,4 +63,10 @@ You are good!
 
 # Configure Your Workshop Files
 
-1) 
+Copy the following files to your **token** folder which was created by **brownie bake token**.
+1) Copy contracts from code/contracts to contracts
+2) Copy scripts from code/scripts to scripts
+3) copy brownie-config.yaml to tokens directory
+4) copy .env to tokens directory
+
+See you at DefCon30!
