@@ -8,3 +8,5 @@ def main():
     print(int(slot0.hex(), 16))
 
     network.disconnect()
+
+
